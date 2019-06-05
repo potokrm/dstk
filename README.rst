@@ -2,7 +2,7 @@ DSTK: The Data Science Toolkit
 ==============================
 
 This repository contains advanced tools for Data Scientists to use them as off-the-shelf solution.
-Feel free to use and contribute.
+Feel free to use and contribute. here
 
 Setup
 -----
